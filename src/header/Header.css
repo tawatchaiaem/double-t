@@ -1,0 +1,19 @@
+@media only screen and (max-width: 768px) {
+    .header-top{
+        display: none !important;
+    }
+}
+
+.Header-row-buttom{
+    background-color: #90EE90;
+}
+.Header-row-buttom .nav-buttom{
+  background-color: #90EE90 !important;
+}
+.Header-row-top{
+    background-color: rgb(33, 37, 41);
+}
+
+.navbar-center{
+    margin: 0 auto;
+}
